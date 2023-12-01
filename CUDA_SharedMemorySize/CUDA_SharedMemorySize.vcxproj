@@ -12,7 +12,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{B02B357E-C6FC-4443-AC4E-AAC9A7CAD797}</ProjectGuid>
-    <RootNamespace>SharedMemorySize</RootNamespace>
+    <RootNamespace>CUDA_SharedMemorySize</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
