@@ -4,6 +4,6 @@
 *.ptx
 *.cubin
 *.fatbin
-/.vs/SharedMemorySize
-/SharedMemorySize/x64/Debug
 /x64/Debug
+/.vs
+/CUDA_SharedMemorySize/x64/Debug
